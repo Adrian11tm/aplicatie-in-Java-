@@ -1,0 +1,1 @@
+Ceau tuturor,dacă mă poate ajuta cineva cu o informație și anume la codul ( Java)  atașat mai jos ar trebuii la rulare lui să îmi apară in imagine si cercurile in alb si rosu , sunt declarate dar cu toate acestea cercul este complet roșu... vă mulțumesc anticipat.
